@@ -31,7 +31,6 @@ const Navbar =() =>{
 
             </div>
             <div className="m-8 flex item-center justify-center gap-4 text-2xl mr-20">
-                {/* <a href="www.linkedin.com/in/senthil-kumar-2519b5255"><FaLinkedin/></a> */}
                 <FaLinkedin onClick={handleLinkedIn}/>   
                 <FaGithub onClick={handleGit}/>
                 <FaFacebook onClick={handleFacebook}/>
