@@ -35,7 +35,7 @@ const Summary =() =>{
                         building responsive designs and dynamic applications. Adept at collaborating with teams to deliver
                         innovative solutions that enhance user experience.</motion.p>
                     </div>
-                    <div className="inline-block px-6 py-3 bg-white text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline">
+                    <div className="inline-block lg:px-6 lg:py-3 bg-white text-black lg:text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline xs:p-2 xs:mb-3 xs:align-center xs:ml-28">
                         <a href="https://drive.google.com/drive/folders/1DZhWi_ax_eAhWRE_c1c7zFZjwX2m_Zlc?mcp_token=eyJwaWQiOjgyMjU2OSwic2lkIjo3OTM2Mjg5MzUsImF4IjoiMzZlOTQ0NTEwMzQwYTQyYTY2YzI2NDNhMmY4YmY4ZDkiLCJ0cyI6MTczNzk2MjI1NCwiZXhwIjoxNzQwMzgxNDU0fQ.z7sshMs7vwcXxiX73Dt7N3ADKu-U9WtIIIn8DVlTiQM">Resume</a>
                     </div>
                 </div>

@@ -39,7 +39,7 @@ const Project =()=>{
 
                         ))}
 
-<div className='inline-flex px-6 py-3  bg-neutral-900 text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline'>
+<div className='inline-flex px-2 py-2  bg-neutral-900 text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline xs:mt-5 xs:m-auto'>
                         <a href="https://react-portfolio-senthil.vercel.app/">Visit my App</a>  
                         </div>
                     </motion.div>
@@ -83,10 +83,10 @@ const Project =()=>{
                         <h4 className='mb-2 font-semibold  xs:ml-2'>Student Form Management</h4>
                         <p className='mb-4 text-neutral-400 xs:w-72 xs:ml-2'>A simple yet efficient CRUD application built with HTML, CSS, and JavaScript. It allows users to create, read, update, and delete student records with a clean and responsive interface, showcasing my front-end development skills.
                         </p>
-                        <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">HTML</span>
-                        <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">CSS</span>
+                        <span className="mr-4 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">HTML</span>
+                        <span className="mr-4 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">CSS</span>
                         <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">JAVASCRIPT</span>
-                        <div className='inline-flex px-6 py-3  bg-neutral-900 text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline'>
+                        <div className='inline-flex px-2 py-2  bg-neutral-900 text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline xs:ml-2 xs:mt-5'>
                         <a href="https://student-form-ashen.vercel.app/">Visit my App</a>  
                         </div>
                     </motion.div>
@@ -112,7 +112,7 @@ const Project =()=>{
                         <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">HTML</span>
                         <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">TAILWIND CSS</span>
                         <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">JAVASCRIPT</span>
-                        <div className='inline-flex px-6 py-3  bg-neutral-900 text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline'>
+                        <div className='inline-flex px-2 py-2  bg-neutral-900 text-black text-lg font-medium rounded-md shadow-md border border-gray-400 hover:bg-gray-200 transition duration-300 no-underline xs:mt-5'>
                         <a href="https://to-do-list-using-js-sigma.vercel.app/">Visit my App</a>  
                         </div>
                     </motion.div>
